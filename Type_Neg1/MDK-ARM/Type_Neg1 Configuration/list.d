@@ -1,0 +1,13 @@
+type_neg1 configuration\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/list.c
+type_neg1 configuration\list.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+type_neg1 configuration\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+type_neg1 configuration\list.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+type_neg1 configuration\list.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+type_neg1 configuration\list.o: ../Inc/FreeRTOSConfig.h
+type_neg1 configuration\list.o: ../Inc/mxconstants.h
+type_neg1 configuration\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+type_neg1 configuration\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+type_neg1 configuration\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+type_neg1 configuration\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F/portmacro.h
+type_neg1 configuration\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+type_neg1 configuration\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
